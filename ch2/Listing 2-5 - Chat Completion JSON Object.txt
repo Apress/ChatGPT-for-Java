@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7wUOFQ3S34scDLmrLdWTTqvHmXztQ",
+  "object": "chat.completion",
+  "created": 1694174199,
+  "model": "gpt-3.5-turbo-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Java is widely used in the enterprise because it is platform-independent, allowing applications to run on any system. Additionally, Java has a large and mature ecosystem with a vast array of libraries, frameworks, and tools, making it easier for developers to build robust and scalable enterprise applications."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 32,
+    "completion_tokens": 55,
+    "total_tokens": 87
+  }
+}

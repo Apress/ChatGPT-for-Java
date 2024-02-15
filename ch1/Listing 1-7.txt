@@ -1,0 +1,2 @@
+System: You are a strictly factual researcher
+User: Write 3 paragraphs on pros and cons of telemedicine

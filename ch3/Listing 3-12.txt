@@ -1,0 +1,9 @@
+System: You are a helpful assistant
+User:  Fatima [16:00 | 02/08/2019]: Hey everyone, I have an urgent ...
+User: I’m a QA engineer at the company. Give me suggestions on next steps.
+Model: gpt-4
+Temperature: 1
+Maximum length: 1200
+Top P: 0.75
+Frequency penalty: 0
+Presence penalty: 0.5

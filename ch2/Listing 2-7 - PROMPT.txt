@@ -1,0 +1,1 @@
+User: I have a Java 11 environment, so use Java 11 HTTP classes for the API calls. I'd rather use pure Java instead of Apache HttpClient

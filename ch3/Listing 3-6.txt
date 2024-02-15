@@ -1,0 +1,9 @@
+System: You are a helpful assistant
+User:  Fatima [16:00 | 02/08/2019]: Hey everyone, I have an urgent ...
+User: Tl;dr
+Model: gpt-4
+Temperature: 1
+Maximum length: 360
+Top P: 1
+Frequency penalty: 0
+Presence penalty: 0
