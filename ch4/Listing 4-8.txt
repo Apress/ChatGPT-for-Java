@@ -1,0 +1,13 @@
+System: You are a service that helps to visualize podcasts.
+User: Read the following transcript from a podcast. Describe for a visually impaired person the background and subject that best represents the overall theme of the episode. Start with any of the following phrases:
+- "A photo of" 
+- "A painting of"
+- "A macro 35mm photo of"
+- "Digital art of "
+User: Support for This American Life comes from Squarespace... 
+Model: gpt-4-32k
+Temperature: 1.47
+Maximum length: 150
+Top P: 0
+Frequency penalty: 0.33
+Presence penalty: 0
